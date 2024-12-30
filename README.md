@@ -1,3 +1,13 @@
+Name: LENISHA ROSHAL DSOUZA 
+
+Company: CODTECH IT SOLUTIONS 
+
+ID: CT08DGD 
+
+Domain: Python Programming 
+
+Duration: Dec 20,2024 to Jan 20,2025
+
 Overview: Student Grades Management Program
 
 This Python program is designed to help users efficiently track and manage student grades. It provides an intuitive interface for entering grades for various subjects or assignments, calculates averages, and displays performance summaries.
