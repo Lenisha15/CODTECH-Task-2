@@ -1,5 +1,7 @@
 Overview: Student Grades Management Program
+
 This Python program is designed to help users efficiently track and manage student grades. It provides an intuitive interface for entering grades for various subjects or assignments, calculates averages, and displays performance summaries.
+
 Key Features
 
 Grade Entry:
